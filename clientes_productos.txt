@@ -1,0 +1,24 @@
+Juan	Te Verde
+Juan	Cafe Intenso
+Juan	Leche Descremada
+Maria	Cafe Intenso
+Maria	Leche Descremada
+Maria	Jugo de Naranja
+Carlos	Te Verde
+Carlos	Jugo de Naranja
+Carlos	Cereal Integral
+Lucia	Leche Descremada
+Lucia	Cereal Integral
+Lucia	Avena Organica
+Sofia	Te Verde
+Sofia	Avena Organica
+Sofia	Chocolate Amargo
+Luis	Cafe Intenso
+Luis	Jugo de Naranja
+Luis	Chocolate Amargo
+Pedro	Leche Descremada
+Pedro	Avena Organica
+Pedro	Galletas de Arroz
+Ana	Cereal Integral
+Ana	Chocolate Amargo
+Ana	Galletas de Arroz
